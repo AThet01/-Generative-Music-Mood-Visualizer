@@ -17,10 +17,12 @@ Optional webcam emotion detection (opencv + fer).
 Ready for Riffusion (text→music diffusion) integration.
 
 # 🚀 Quick Start
--git clone https://github.com/AThet01/Generative-Music-Mood-Visualizer
--cd mood-music-visualizer
--pip install -r requirements.txt
--streamlit run apptest.py
+```
+git clone https://github.com/AThet01/Generative-Music-Mood-Visualizer
+cd mood-music-visualizer
+pip install -r requirements.txt
+streamlit run apptest.py
+```
 
 # 📦 Requirements
 
