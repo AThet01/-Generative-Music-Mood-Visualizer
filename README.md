@@ -36,6 +36,6 @@ Download individual .wav files.
 
 Export full playlist as .json.
 
-#📝 License
+# 📝 License
 
 MIT © 2025 Thet Hmue Khin
