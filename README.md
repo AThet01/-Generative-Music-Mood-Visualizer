@@ -3,14 +3,14 @@
 A Streamlit app that generates procedural music from moods, keywords, or webcam-detected emotions, with a real-time audio visualizer.
 
 # ✨ Features
-
+```
 -Generate music from text moods (happy, calm, sad, lofi, dark, epic, etc.).
 -Procedural synth engine with bass, pads, melody & percussion.
 -Visualizer synced to playback.
 -Playlist history with WAV + JSON export.
 -Optional webcam emotion detection (opencv + fer).
 -Ready for Riffusion (text→music diffusion) integration.
-
+```
 # 🚀 Quick Start
 ```
 git clone https://github.com/AThet01/Generative-Music-Mood-Visualizer
